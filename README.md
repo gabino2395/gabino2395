@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](image.jpg)
+![alt text](banner-4.jpg)
 <!--
 **gabino2395/gabino2395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
